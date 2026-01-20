@@ -1,6 +1,5 @@
 # ⌨️ TechKeyboards - Mechanical Keyboard Showcase
 
-![TechKeyboards Banner](.img/teclado1.png)
 > *Uma interface imersiva para explorar o mundo dos teclados mecânicos.*
 
 ## 📖 Sobre o Projeto
